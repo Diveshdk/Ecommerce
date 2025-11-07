@@ -222,4 +222,11 @@ A full-stack shopping cart application built for Vibe Commerce screening assignm
 - **Order History** - Store and display past orders
 - **Product Search** - Add search and filtering capabilities
 
+_ Demo Screenshots : 
+<img width="1440" height="900" alt="Screenshot 2025-11-08 at 2 57 46 AM" src="https://github.com/user-attachments/assets/18da3e68-d35e-42cc-8ba8-4cc482bedcd8" />
+<img width="1440" height="900" alt="Screenshot 2025-11-08 at 2 58 00 AM" src="https://github.com/user-attachments/assets/1ac25702-8cda-4fda-bd5b-6d58f47efcc9" />
+<img width="1440" height="900" alt="Screenshot 2025-11-08 at 2 58 07 AM" src="https://github.com/user-attachments/assets/bdc8df61-1a52-4cfe-815b-4e25cb1222ab" />
+<img width="1440" height="900" alt="Screenshot 2025-11-08 at 2 58 16 AM" src="https://github.com/user-attachments/assets/1fa219e8-bc3b-4244-8cfb-c0b72bf7f8c1" />
+<img width="1440" height="900" alt="Screenshot 2025-11-08 at 2 58 18 AM" src="https://github.com/user-attachments/assets/d49a5caa-2a90-428b-aacd-429ab8b8e477" />
+
 ---
